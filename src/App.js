@@ -1,5 +1,6 @@
 import './App.css';
-import Hospitals from './Hospitals';
+import Hospitals from './components/Hospitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
