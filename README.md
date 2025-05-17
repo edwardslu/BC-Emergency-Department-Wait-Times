@@ -8,9 +8,9 @@ API data is retrieved from "https://edwaittimes.ca/api/wait-times".
 
 ## Current to-do list:
 
- - Implement backend and deploy to Railway
- - Connect to MongoDB
- - Add graph functionality
- - Add comparison functionality
- - Add a map and direction functions using Google Maps API
+ - [x] Implement backend and deploy to Railway
+ - [ ] Connect to MongoDB
+ - [ ] Add graph functionality
+ - [ ] Add comparison functionality
+ - [ ] Add a map and direction functions using Google Maps API
  
